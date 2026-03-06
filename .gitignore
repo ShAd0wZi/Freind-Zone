@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# Environment variables (SUPER IMPORTANT)
+.env
+
+# Logs and trash
+build.log
+lint.log
+lint.exit
+realtime        
